@@ -1,4 +1,4 @@
-const User = require('../models/user')
+const User = require('../models/Course')
 const bcrypt =  require('bcrypt')
 const auth = require('../auth')
 /*
